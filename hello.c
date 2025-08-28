@@ -7,10 +7,14 @@
  *
  */
 
+#include <stdlib.h>
+#include <stdio.h>
+
 int main(int argc, char **argv) {
 
-  printf("Hello, I'm Adele Keener!")
-  printf("Major is Computer Science!")
+  printf("Hello, I'm Adele Keener!");
+  printf("Major is Computer Science!");
 
   return 0;
 }
+
